@@ -3,7 +3,7 @@
 <img width="808" alt="Screenshot 2024-07-23 at 3 37 42 PM" src="https://github.com/user-attachments/assets/3c40efb1-24d4-4ffa-b923-e3ff355e0366">
 <img width="826" alt="Screenshot 2024-07-23 at 3 37 49 PM" src="https://github.com/user-attachments/assets/fb7abed2-c05b-4421-ac78-63d5444db28f">
 
-Click here to view the live project deployed on Netlify. ➡️  https://todolistkaylee.netlify.app/ 
+Click here to view the live project deployed on Netlify. ➡️  https://todolistamelie.netlify.app/
 
 ## Description
 
